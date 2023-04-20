@@ -4,7 +4,7 @@
 
 
 
-I'm a passionate coder with a thirst for knowledge and a desire to connect with like-minded individuals. I've always been fascinated by the power of technology to solve problems and make our lives easier, and I love using my coding skills to bring new ideas to life. One of the things that excites me most about GitHub is the opportunity to collaborate with other developers from all over the world and learn from their experiences. I'm always looking for new projects to work on and new people to connect with, so please don't hesitate to reach out if you're interested in collaborating or just chatting about all things code!
+  I'm a passionate coder with a thirst for knowledge and a desire to connect with like-minded individuals. I've always been fascinated by the power of technology to solve problems and make our lives easier, and I love using my coding skills to bring new ideas to life. One of the things that excites me most about GitHub is the opportunity to collaborate with other developers from all over the world and learn from their experiences. I'm always looking for new projects to work on and new people to connect with, so please don't hesitate to reach out if you're interested in collaborating or just chatting about all things code!
 
                                            Skills: C++ / PYTHON / JS / HTML / CSS
 
