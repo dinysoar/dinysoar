@@ -1,6 +1,6 @@
                                         Exploring the Frontiers of AI as a Master's Student in Computer Science
 
-<img src='https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg' height='500' width='1000'>
+<img src='https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg' height='200' width='1000'>
 
 
 
