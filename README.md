@@ -1,4 +1,4 @@
-[<img src='[https://media.istockphoto.com/id/1360380430/photo/welcome-neon-banner-light-signboard.jpg?b=1&s=170667a&w=0&k=20&c=7LIp7Rg-36WdQbMb6I0AISTVJ6c4OKZRHszwFl49fE8=' alt='linkedin' height='40'>]  
+[<img src='https://media.istockphoto.com/id/1360380430/photo/welcome-neon-banner-light-signboard.jpg?b=1&s=170667a&w=0&k=20&c=7LIp7Rg-36WdQbMb6I0AISTVJ6c4OKZRHszwFl49fE8=' height='40'>]  
 ![WELCOME](https://media.istockphoto.com/id/1360380430/photo/welcome-neon-banner-light-signboard.jpg?b=1&s=170667a&w=0&k=20&c=7LIp7Rg-36WdQbMb6I0AISTVJ6c4OKZRHszwFl49fE8=)
 #### Exploring the Frontiers of AI as a Master's Student in Computer Science
 ![Exploring the Frontiers of AI as a Master's Student in Computer Science](https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg)
