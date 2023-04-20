@@ -1,9 +1,8 @@
                                         Exploring the Frontiers of AI as a Master's Student in Computer Science
 
-<img src='https://media.istockphoto.com/id/1360380430/photo/welcome-neon-banner-light-signboard.jpg?b=1&s=170667a&w=0&k=20&c=7LIp7Rg-36WdQbMb6I0AISTVJ6c4OKZRHszwFl49fE8=' height='500' width='1000'>
+<img src='https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg' height='500' width='1000'>
 
-#### Exploring the Frontiers of AI as a Master's Student in Computer Science
-![Exploring the Frontiers of AI as a Master's Student in Computer Science](https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg)
+
 
 I'm a passionate coder with a thirst for knowledge and a desire to connect with like-minded individuals. I've always been fascinated by the power of technology to solve problems and make our lives easier, and I love using my coding skills to bring new ideas to life. One of the things that excites me most about GitHub is the opportunity to collaborate with other developers from all over the world and learn from their experiences. I'm always looking for new projects to work on and new people to connect with, so please don't hesitate to reach out if you're interested in collaborating or just chatting about all things code!
 
