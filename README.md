@@ -8,7 +8,7 @@ Skills: C++ / PYTHON / JS / HTML / CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dinysoar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/colton-combs-7507ab261)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dinysoar)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/colton-combs-7507ab261)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinysoar&show_icons=true)  
