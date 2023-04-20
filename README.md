@@ -1,4 +1,4 @@
-(https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg)
+![Exploring the Frontiers of AI as a Master's Student in Computer Science](https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg)
 #### Exploring the Frontiers of AI as a Master's Student in Computer Science
 ![Exploring the Frontiers of AI as a Master's Student in Computer Science](https://github.com/dinysoar/dinysoar/blob/main/blade-runner-blade-runner-2049-dual-display-dual-monitors-wallpaper-c752e859368743778e7efd998ed7a9a6.jpg)
 
